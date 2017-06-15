@@ -1,0 +1,10 @@
+{
+  "name": "email-contact-submit",
+  "description": "Email Contact Form Submission",
+  "dependencies": {
+    "firebase-admin": "~5.0.0",
+    "firebase-functions": "^0.5.7",
+    "nodemailer": "^4.0.1"
+  },
+  "private": true
+}
