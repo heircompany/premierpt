@@ -24,6 +24,10 @@
     transform: translateY(-50%);
   }
 
+  &__half-width {
+    display: block;
+  }
+
   &__field {
     border: none;
   }
@@ -67,8 +71,6 @@
     }
   }
 
-
-
   &__description {
     text-align: center;
     font-size: 1.3rem;
@@ -94,4 +96,5 @@
       color: $mainOrange;
     }
   }
+
 }

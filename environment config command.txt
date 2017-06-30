@@ -1,3 +1,0 @@
-firebase functions:config:set gmail.email="administrative@ptnerve.com" gmail.password=""
-
-firebase functions:config:set gmail.email="josephmgrotto@gmail.com" gmail.password="MrGrotts11"
